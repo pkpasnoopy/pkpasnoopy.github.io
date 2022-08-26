@@ -1,13 +1,13 @@
 ![alt text](./images/logo.png?raw=true)
 
-## Les règles
-
 > Le jeu se joue avec un d20.  
 > Chaque joueur lance le dé à tour de rôle.  
 > A chaque nombre correspond une règle à appliquer notée ci-dessus.  
 > (si tu aimes **_VRAIMENT_** pas cette règle, relance le dé).  
 > Si il y a débat, tous le monde boit !  
 > Bon jeu !
+
+## Les règles
 
 1. Bois 1 et relance le dé
 2. **Compagnon** les personnes à droite et gauche de toi boivent 1
