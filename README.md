@@ -11,7 +11,7 @@
 
 1. Bois 1 et relance le dé
 2. **Compagnon** les personnes à droite et gauche de toi boivent 1
-3. **Noopy** bois 1 [Go to Rôles section](#voir Joker)
+3. **Noopy** bois 1 [voir Joker](### Joker)
 4. Jeu du _vote_, les minoritaires boient 1
 5. Tous les joueurs crient **Noopy** avec le pouce sur le frond, le dernier est désigné **Noopy**
 6. Distribue 6
