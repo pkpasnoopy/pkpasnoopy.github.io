@@ -17,7 +17,7 @@
 5. Tous les joueurs crient **Noopy** avec le pouce sur le frond, le dernier est désigné **Noopy**
 6. Distribue 6
 7. Invente une règle
-8. Tu choisis ton **Alcoolyte** `ou annules-en un` [voir Rôles](#rôles)
+8. Tu choisis ton **Alcoolyte** ou annules-en un [voir Rôles](#rôles)
 9. Jeu du _Shi Fu Mi_, choisi ton adversaire et pariez ensemble ce que le perdant doit boire `en une seule manche`
 10. Tous le monde trinque et relance le dé `skoll`
 11. Tu deviens **Freestyler** jusqu'à ton prochain tour [voir Rôles](#rôles)
