@@ -54,4 +54,5 @@ Le premier qui va se coucher ou rentre bois 14 000 000 000 000 000 000 de gorgé
 > Le jeu du ni Oui ni Non ni Gros mots  
 > Pour le 5, les 2 derniers deviennent **Noopy**  
 > Donner un gage sinon il boit  
-> Inverser les 'R' et les 'L' dans chaque phrases
+> Inverser les 'R' et les 'L' dans chaque phrases  
+> augmenterle nombre de tours des rôles
