@@ -5,6 +5,7 @@
 > A chaque nombre correspond une règle à appliquer notée ci-dessous.  
 > (si tu aimes **_VRAIMENT_** pas la règle sur laquelle tu es tombé, relance le dé).  
 > Pour toute la dureée du jeu, si il y a débat, tous le monde boit !  
+> Si c'est gol-ri ça passe !  
 > Bon jeu !
 
 ## Les règles
