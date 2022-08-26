@@ -1,6 +1,7 @@
 ![alt text](./images/logo.png?raw=true)
 
 > __Note__  
+>   
 > Le jeu se joue avec un d20 à partir de 3 joueurs.  
 > Chaque joueur lance le dé à tour de rôle.  
 > A chaque nombre correspond une règle à appliquer notée ci-dessous.  
