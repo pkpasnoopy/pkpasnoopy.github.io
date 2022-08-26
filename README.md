@@ -19,7 +19,7 @@
 7. Invente une règle
 8. Tu choisis ton **Alcoolyte** [voir Rôles](#rôles)
 9. Jeu du _Shi Fu Mi_, choisi ton adversaire et pariez ensemble ce que le perdant doit boire `en une seule manche`
-10. Tous le monde trinque et tu relances le dé `skoll`
+10. Tous le monde trinque et relance le dé `skoll`
 11. Tu deviens **Freestyler** jusqu'à ton prochain tour [voir Rôles](#rôles)
 12. **Noopy** bois 3 [voir Joker](#joker)
 13. Tu deviens **Barbar** jusqu'à ton prochain tour [voir Rôles](#rôles)
@@ -29,7 +29,7 @@
 17. Enlève une règle ou modifie-en une de base
 18. Tu deviennes la **Féminine universelle** jusqu'à ta prochaine tour [voir Rôles](#rôles)
 19. **Noopy** bois 6 [voir Joker](#joker)
-20. Tous le monde bois 1 sauf toi et tu relances le dé
+20. Tous le monde bois 1 sauf toi et relance le dé
 
 ### Joker
 
