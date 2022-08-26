@@ -22,7 +22,7 @@
 11. Tu deviens **Freestyler** jusqu'à ton prochain tour [voir Rôles](#rôles)
 12. **Noopy** bois 3 [voir Joker](#joker)
 13. Tu deviens **Barbar** jusqu'à ton prochain tour [voir Rôles](#rôles)
-14. Tu deviens **Maître des questions** jusqu'au prochain 14, 5 [voir Rôles](#rôles)
+14. Tu deviens **Maître des questions** jusqu'au prochain 14 ou 5 [voir Rôles](#rôles)
 15. Tututu une musique `ou traduit-là dans une autre langue sans la chanter`, le premier qui devine distribue 4 gorgées si personne trouve tu les bois
 16. Bois un shooter de ton choix sauf pour les **Alcoolytes**
 17. Enlève une règle ou modifie-en une de base
