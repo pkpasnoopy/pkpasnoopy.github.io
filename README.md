@@ -1,7 +1,5 @@
 ![alt text](./images/logo.png?raw=true)
 
-> __Note__  
->   
 > Le jeu se joue avec un d20 à partir de 3 joueurs.  
 > Chaque joueur lance le dé à tour de rôle.  
 > A chaque nombre correspond une règle à appliquer notée ci-dessous.  
@@ -18,18 +16,18 @@
 5. Tous les joueurs crient **Noopy** avec le pouce sur le frond, le dernier est désigné **Noopy**
 6. Distribue 6
 7. Invente une règle
-8. Tu choisis ton **Alcoolyte** [voir Rôles](#Rôles)
+8. Tu choisis ton **Alcoolyte** [voir Rôles](#rôles)
 9. Jeu du _Shi Fu Mi_, choisi ton adversaire et pariez ensemble ce que le perdant doit boire `en une seule manche`
 10. Tous le monde trinque et tu relance le dé `skoll`
-11. Tu deviens **Freestyler** jusqu'à ton prochain tour [voir Rôles](#Rôles)
-12. **Noopy** bois 3 [voir Joker](#Joker)
-13. Tu deviens **Barbar** jusqu'à ton prochain tour [voir Rôles](#Rôles)
-14. Tu deviens **Maître des questions** jusqu'au prochain 14 [voir Rôles](#Rôles)
+11. Tu deviens **Freestyler** jusqu'à ton prochain tour [voir Rôles](#rôles)
+12. **Noopy** bois 3 [voir Joker](#joker)
+13. Tu deviens **Barbar** jusqu'à ton prochain tour [voir Rôles](#rôles)
+14. Tu deviens **Maître des questions** jusqu'au prochain 14 [voir Rôles](#rôles)
 15. Tututu une musique `ou traduit-là dans une autre langue sans la chanter`, le premier qui devine distribue 4 gorgées si personne trouve tu les bois
 16. Bois un shooter de ton choix sauf pour les **Alcoolytes**
 17. Enlève une règle ou modifie-en une de base
-18. Tu deviennes la **Féminine universelle** jusqu'à ta prochaine tour [voir Rôles](#Rôles)
-19. **Noopy** bois 6 [voir Joker](#Joker)
+18. Tu deviennes la **Féminine universelle** jusqu'à ta prochaine tour [voir Rôles](#rôles)
+19. **Noopy** bois 6 [voir Joker](#joker)
 20. Tous le monde bois 1 sauf toi et tu relance le dé
 
 ### Joker
