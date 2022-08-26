@@ -1,5 +1,6 @@
 ![alt text](./images/logo.png?raw=true)
 
+> __NOTE__  
 > Le jeu se joue avec un d20 à partir de 3 joueurs.  
 > Chaque joueur lance le dé à tour de rôle.  
 > A chaque nombre correspond une règle à appliquer notée ci-dessous.  
@@ -48,6 +49,7 @@ Le premier qui va se coucher ou rentre bois 14 000 000 000 000 000 000 de gorgé
   
 #### Idées de règles pour le 7 et 17.
 
+> __NOTE__  
 > Les rôles s'appliquent à tous les joueurs  
 > Le jeu du je n'ai jamais  
 > Le jeu du Dos à Dos  
