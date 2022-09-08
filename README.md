@@ -11,7 +11,7 @@
 ## Les règles
 
 1. Bois 1 et relance le dé
-2. **Compagnon** les personnes à droite et gauche de toi boivent 1
+2. **Compagnon** ! Les personnes à droite et gauche de toi boivent 1
 3. **Noopy** bois 1 [voir Joker](#joker)
 4. Jeu du _vote_, les minoritaires boient 1
 5. Tous les joueurs crient **Noopy** avec le pouce sur le frond, le dernier est désigné **Noopy**
